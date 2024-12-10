@@ -1,3 +1,5 @@
+https://windsurftemplate.github.io/crm-landing/
+
 # CRM Landing Page
 
 A modern and responsive landing page for a Customer Relationship Management (CRM) system.
